@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r2ug758a880r50dw/branch/master?svg=true)](https://ci.appveyor.com/project/Kotemako/pattern/branch/master)
